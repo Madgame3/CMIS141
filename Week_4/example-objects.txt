@@ -1,0 +1,29 @@
+Daughter Object
+
+State and Behaviors
+Name
+Age
+Hair Color
+Eye Color
+
+
+Behavior
+Laughing
+Crying
+Cuteness
+Upset
+Happy
+
+ 
+Safe Object
+Locked
+Unlocked
+
+Behavior 
+Locking
+UnLocking
+
+
+Iron
+ON
+Off
